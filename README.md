@@ -88,11 +88,6 @@ I'm currently focused on:
 
 ## 🚀 Featured Projects
 
-**[Loan Default Risk Prediction](https://github.com/Palash-Pote)** — `Python` `Scikit-learn` `XGBoost` `FastAPI` `MLflow` `Render`
-- Trained Logistic Regression, Random Forest, and XGBoost models on 10,000+ loan records, achieving 85% ROC-AUC with XGBoost.
-- Improved default-case recall by 12% using SMOTE and GridSearchCV for class balancing and hyperparameter tuning.
-- Deployed as a Flask REST API with full documentation for setup, data schema, and the model pipeline.
-
 **[Laptop Price Prediction Model](https://github.com/Palash-Pote)** — `Python` `Scikit-learn` `Streamlit`
 - Built an end-to-end regression model achieving an R² score of ~88% through hyperparameter tuning.
 - Engineered data pipelines to extract clean, structured features from complex CPU, GPU, and hardware specs.
