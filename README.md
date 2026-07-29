@@ -99,3 +99,4 @@ I'm always open to collaborating on projects and discussing entry-level Data Sci
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
+</p> <p align="center"> <img src="dino.gif" alt="dino"> </p>
