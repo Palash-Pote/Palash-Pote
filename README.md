@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/palash-pote"><img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/Palash-Pote"><img height="30" src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;&nbsp;
 </p>
 
 <p align="center">
