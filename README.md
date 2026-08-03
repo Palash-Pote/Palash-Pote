@@ -20,7 +20,7 @@
 🧠 Data Science enthusiast who loves turning messy data into clear decisions
 📊 Comfortable across the full pipeline: SQL extraction → Python modeling → BI dashboards
 🤖 Built and deployed end-to-end ML projects, from model training to a live API
-🔍 Currently deep into Generative AI — RAG, prompt engineering, and LLM fine-tuning
+🔍 Currently deep into Generative AI - RAG, prompt engineering, and LLM fine-tuning
 🌱 Looking for an entry-level Data Scientist / Data Analyst role
 ```
 
@@ -84,12 +84,12 @@
 
 I'm currently focused on:
 - Strengthening my forecasting and analytics skills through hands-on work with real business data.
-- Exploring the Generative AI stack — RAG, prompt engineering, and LLM fine-tuning for practical applications.
+- Exploring the Generative AI stack - RAG, prompt engineering, and LLM fine-tuning for practical applications.
 - Taking ML projects from notebook to production, with clean APIs and solid documentation.
 
 ## 🚀 Featured Projects
 
-**[Laptop Price Prediction Model](https://github.com/Palash-Pote)** — `Python` `Scikit-learn` `Streamlit`
+**[Laptop Price Prediction Model](https://github.com/Palash-Pote)** - `Python` `Scikit-learn` `Streamlit`
 - Built an end-to-end regression model achieving an R² score of ~88% through hyperparameter tuning.
 - Engineered data pipelines to extract clean, structured features from complex CPU, GPU, and hardware specs.
 - Deployed into a real-time interactive Streamlit web app for custom user inputs.
