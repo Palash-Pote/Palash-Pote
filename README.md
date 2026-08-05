@@ -98,6 +98,14 @@ I'm currently focused on:
 
 I'm always open to collaborating on projects and discussing entry-level Data Scientist / Data Analyst opportunities. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/palash-pote)!
 
+## 💡 Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+> "Data can tell stories, but only if you know how to listen."
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
